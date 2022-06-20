@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jithesh82.
-- 👀 I’m love Python.
-- 🌱 I’m currently learning Python Application Development.
-- 💞️ I’m larning Breakthrough Energy packages.
+- 👋 Hi, I’m Jithesh Kuyyalil.
+- 👀 I love Python.
+- 🌱 I studied Mark Lutz Learning Python.  Now sudying his book Programming Python.
+- 💞️ I’m exploring breakthrough Energy and Blender. 
 - 📫 How to reach me - through my web: https://jitheshkuyyalil.com
 
 <!---
